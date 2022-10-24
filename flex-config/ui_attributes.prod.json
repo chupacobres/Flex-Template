@@ -1,0 +1,15 @@
+{
+  "custom_data": {
+    "serverless_functions_domain": "",
+    "features": {
+      "activity_skill_filter": {
+        "rules": {
+          "WA...": {
+            "required_skill": null,
+            "sort_order": 0
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "minimum": null,
+        "multivalue": false,
+        "name": "Retention",
+        "maximum": null
+    },
+    {
+      "minimum": null,
+      "multivalue": false,
+      "name": "Example Skill Two",
+      "maximum": null
+  }
+]
